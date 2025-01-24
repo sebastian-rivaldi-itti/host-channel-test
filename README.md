@@ -38,7 +38,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Configurar archivo HOSTS
 
 ### DEV TEST TUTI
+
+```
 127.0.0.1 web.tuti.com.py
 127.0.0.1 pos.tuti.com.py
 127.0.0.1 ted.tuti.com.py
+```
 
